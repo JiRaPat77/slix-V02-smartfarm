@@ -1,0 +1,6556 @@
+{"timestamp": "2025-07-31T09:58:41.056666", "sensors": {"port_3": {"type": "soil", "soil_moisture": null, "soil_temperature": null, "timestamp": "2025-07-31T09:58:41.146774"}}}
+{"timestamp": "2025-07-31T09:58:51.471550", "sensors": {"port_3": {"type": "soil", "soil_moisture": null, "soil_temperature": null, "timestamp": "2025-07-31T09:58:51.560920"}}}
+{"timestamp": "2025-07-31T09:59:32.506412", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T09:59:32.554619"}}}
+{"timestamp": "2025-07-31T09:59:43.186128", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T09:59:43.235964"}}}
+{"timestamp": "2025-07-31T09:59:53.875465", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T09:59:53.920914"}}}
+{"timestamp": "2025-07-31T10:00:04.553146", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T10:00:04.600042"}}}
+{"timestamp": "2025-07-31T10:00:15.229806", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T10:00:15.278015"}}}
+{"timestamp": "2025-07-31T10:00:25.907946", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T10:00:25.956246"}}}
+{"timestamp": "2025-07-31T10:00:36.588379", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T10:00:36.637756"}}}
+{"timestamp": "2025-07-31T10:00:47.267885", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T10:00:47.314551"}}}
+{"timestamp": "2025-07-31T10:00:57.944108", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T10:00:57.992191"}}}
+{"timestamp": "2025-07-31T10:01:08.622028", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T10:01:08.670037"}}}
+{"timestamp": "2025-07-31T10:01:19.299700", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T10:01:19.347253"}}}
+{"timestamp": "2025-07-31T10:01:29.976894", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T10:01:30.022816"}}}
+{"timestamp": "2025-07-31T10:01:47.163574", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T10:01:47.212351"}, "port_3": {"type": "soil", "soil_moisture": null, "soil_temperature": null, "timestamp": "2025-07-31T10:01:47.604738"}}}
+{"timestamp": "2025-07-31T10:01:57.929970", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T10:01:57.976053"}, "port_3": {"type": "soil", "soil_moisture": null, "soil_temperature": null, "timestamp": "2025-07-31T10:01:58.367484"}}}
+{"timestamp": "2025-07-31T10:02:08.693757", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T10:02:08.739346"}, "port_3": {"type": "soil", "soil_moisture": null, "soil_temperature": null, "timestamp": "2025-07-31T10:02:09.130973"}}}
+{"timestamp": "2025-07-31T10:02:19.456207", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T10:02:19.502696"}, "port_3": {"type": "soil", "soil_moisture": null, "soil_temperature": null, "timestamp": "2025-07-31T10:02:19.895868"}}}
+{"timestamp": "2025-07-31T10:02:30.220451", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T10:02:30.265805"}, "port_3": {"type": "soil", "soil_moisture": null, "soil_temperature": null, "timestamp": "2025-07-31T10:02:30.656767"}}}
+{"timestamp": "2025-07-31T10:02:40.983916", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T10:02:41.033522"}, "port_3": {"type": "soil", "soil_moisture": null, "soil_temperature": null, "timestamp": "2025-07-31T10:02:41.426117"}}}
+{"timestamp": "2025-07-31T10:02:54.100819", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T10:02:54.149812"}, "port_3": {"type": "soil", "soil_moisture": null, "soil_temperature": null, "timestamp": "2025-07-31T10:02:54.541785"}}}
+{"timestamp": "2025-07-31T10:03:04.868968", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T10:03:04.915427"}, "port_3": {"type": "soil", "soil_moisture": null, "soil_temperature": null, "timestamp": "2025-07-31T10:03:05.308153"}}}
+{"timestamp": "2025-07-31T10:03:15.634833", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T10:03:15.680576"}, "port_3": {"type": "soil", "soil_moisture": null, "soil_temperature": null, "timestamp": "2025-07-31T10:03:16.073747"}}}
+{"timestamp": "2025-07-31T10:03:26.398354", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T10:03:26.445059"}, "port_3": {"type": "soil", "soil_moisture": null, "soil_temperature": null, "timestamp": "2025-07-31T10:03:26.836937"}}}
+{"timestamp": "2025-07-31T10:04:23.935835", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T10:04:23.984964"}, "port_3": {"type": "soil", "soil_moisture": null, "soil_temperature": null, "timestamp": "2025-07-31T10:04:24.376351"}}}
+{"timestamp": "2025-07-31T10:04:34.703119", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T10:04:34.750475"}, "port_3": {"type": "soil", "soil_moisture": null, "soil_temperature": null, "timestamp": "2025-07-31T10:04:35.142881"}}}
+{"timestamp": "2025-07-31T10:04:45.467875", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T10:04:45.517128"}, "port_3": {"type": "soil", "soil_moisture": null, "soil_temperature": null, "timestamp": "2025-07-31T10:04:45.909184"}}}
+{"timestamp": "2025-07-31T10:04:56.235264", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T10:04:56.283022"}, "port_3": {"type": "soil", "soil_moisture": null, "soil_temperature": null, "timestamp": "2025-07-31T10:04:56.673873"}}}
+{"timestamp": "2025-07-31T10:05:07.000107", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T10:05:07.047844"}, "port_3": {"type": "soil", "soil_moisture": null, "soil_temperature": null, "timestamp": "2025-07-31T10:05:07.439987"}}}
+{"timestamp": "2025-07-31T10:06:13.221756", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T10:06:13.267432"}, "port_3": {"type": "soil", "soil_moisture": 0.0, "soil_temperature": 2.52, "timestamp": "2025-07-31T10:06:13.659878"}}}
+{"timestamp": "2025-07-31T10:06:23.986041", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T10:06:24.032582"}, "port_3": {"type": "soil", "soil_moisture": 0.0, "soil_temperature": 2.52, "timestamp": "2025-07-31T10:06:24.425248"}}}
+{"timestamp": "2025-07-31T10:09:39.277294", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T10:09:39.326788"}, "port_3": {"type": "soil", "soil_moisture": 0.0, "soil_temperature": 2.53, "timestamp": "2025-07-31T10:09:39.719093"}}}
+{"timestamp": "2025-07-31T10:09:50.044113", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T10:09:50.091397"}, "port_3": {"type": "soil", "soil_moisture": 0.0, "soil_temperature": 2.52, "timestamp": "2025-07-31T10:09:50.484445"}}}
+{"timestamp": "2025-07-31T10:10:00.809214", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T10:10:00.855389"}, "port_3": {"type": "soil", "soil_moisture": 0.0, "soil_temperature": 2.53, "timestamp": "2025-07-31T10:10:01.246264"}}}
+{"timestamp": "2025-07-31T10:10:11.572341", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T10:10:11.619187"}, "port_3": {"type": "soil", "soil_moisture": 0.0, "soil_temperature": 2.52, "timestamp": "2025-07-31T10:10:12.011106"}}}
+{"timestamp": "2025-07-31T10:10:22.338548", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T10:10:22.383697"}, "port_3": {"type": "soil", "soil_moisture": 0.0, "soil_temperature": 2.52, "timestamp": "2025-07-31T10:10:22.775142"}}}
+{"timestamp": "2025-07-31T10:10:33.099933", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T10:10:33.147138"}, "port_3": {"type": "soil", "soil_moisture": 0.0, "soil_temperature": 2.52, "timestamp": "2025-07-31T10:10:33.539881"}}}
+{"timestamp": "2025-07-31T10:10:43.865766", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T10:10:43.911054"}, "port_3": {"type": "soil", "soil_moisture": 0.0, "soil_temperature": 2.52, "timestamp": "2025-07-31T10:10:44.302332"}}}
+{"timestamp": "2025-07-31T10:10:54.628478", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T10:10:54.674284"}, "port_3": {"type": "soil", "soil_moisture": 0.0, "soil_temperature": 2.52, "timestamp": "2025-07-31T10:10:55.065752"}}}
+{"timestamp": "2025-07-31T10:11:05.392214", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T10:11:05.437433"}, "port_3": {"type": "soil", "soil_moisture": 0.0, "soil_temperature": 2.52, "timestamp": "2025-07-31T10:11:05.829376"}}}
+{"timestamp": "2025-07-31T10:11:16.166316", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T10:11:16.215815"}, "port_3": {"type": "soil", "soil_moisture": 0.0, "soil_temperature": 2.52, "timestamp": "2025-07-31T10:11:16.608687"}}}
+{"timestamp": "2025-07-31T10:11:26.933448", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T10:11:26.979382"}, "port_3": {"type": "soil", "soil_moisture": 0.0, "soil_temperature": 2.52, "timestamp": "2025-07-31T10:11:27.372155"}}}
+{"timestamp": "2025-07-31T10:11:37.696178", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T10:11:37.746012"}, "port_3": {"type": "soil", "soil_moisture": 0.0, "soil_temperature": 2.52, "timestamp": "2025-07-31T10:11:38.138212"}}}
+{"timestamp": "2025-07-31T10:11:48.465326", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T10:11:48.512958"}, "port_3": {"type": "soil", "soil_moisture": 0.0, "soil_temperature": 2.52, "timestamp": "2025-07-31T10:11:48.906402"}}}
+{"timestamp": "2025-07-31T10:11:59.232667", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T10:11:59.280171"}, "port_3": {"type": "soil", "soil_moisture": 0.0, "soil_temperature": 2.52, "timestamp": "2025-07-31T10:11:59.671462"}}}
+{"timestamp": "2025-07-31T10:12:09.995838", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T10:12:10.042078"}, "port_3": {"type": "soil", "soil_moisture": 0.0, "soil_temperature": 2.52, "timestamp": "2025-07-31T10:12:10.433926"}}}
+{"timestamp": "2025-07-31T10:12:20.760888", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T10:12:20.809413"}, "port_3": {"type": "soil", "soil_moisture": 0.0, "soil_temperature": 2.52, "timestamp": "2025-07-31T10:12:21.202014"}}}
+{"timestamp": "2025-07-31T10:12:31.527157", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T10:12:31.575888"}, "port_3": {"type": "soil", "soil_moisture": 0.0, "soil_temperature": 2.52, "timestamp": "2025-07-31T10:12:31.967440"}}}
+{"timestamp": "2025-07-31T10:12:42.293668", "sensors": {"port_1": {"type": "wind", "wind_speed": 0.0, "wind_direction": 131, "timestamp": "2025-07-31T10:12:42.338922"}, "port_3": {"type": "soil", "soil_moisture": 0.0, "soil_temperature": 2.52, "timestamp": "2025-07-31T10:12:42.730163"}}}
+{
+  "timestamp": "2025-07-31T10:20:26.016276",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "wind_speed": 0.0,
+      "wind_direction": 131,
+      "timestamp": "2025-07-31T10:20:26.368312"
+    },
+    "port_2": {
+      "type": "solar",
+      "solar_radiation": 0,
+      "timestamp": "2025-07-31T10:20:27.113755"
+    },
+    "port_3": {
+      "type": "soil",
+      "soil_moisture": 0.0,
+      "soil_temperature": 2.53,
+      "timestamp": "2025-07-31T10:20:27.902745"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "temperature": 29.2,
+      "humidity": 57.4,
+      "timestamp": "2025-07-31T10:20:28.987981"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T10:20:39.218054",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "wind_speed": 0.0,
+      "wind_direction": 131,
+      "timestamp": "2025-07-31T10:20:39.570595"
+    },
+    "port_2": {
+      "type": "solar",
+      "solar_radiation": 0,
+      "timestamp": "2025-07-31T10:20:40.318380"
+    },
+    "port_3": {
+      "type": "soil",
+      "soil_moisture": 0.0,
+      "soil_temperature": 2.53,
+      "timestamp": "2025-07-31T10:20:41.105254"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "temperature": 29.8,
+      "humidity": 57.5,
+      "timestamp": "2025-07-31T10:20:42.187709"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T10:20:52.419034",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "wind_speed": 0.0,
+      "wind_direction": 131,
+      "timestamp": "2025-07-31T10:20:52.772787"
+    },
+    "port_2": {
+      "type": "solar",
+      "solar_radiation": 0,
+      "timestamp": "2025-07-31T10:20:53.520635"
+    },
+    "port_3": {
+      "type": "soil",
+      "soil_moisture": 0.0,
+      "soil_temperature": 2.53,
+      "timestamp": "2025-07-31T10:20:54.313018"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "temperature": 29.8,
+      "humidity": 57.5,
+      "timestamp": "2025-07-31T10:20:55.394848"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T10:21:05.620572",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "wind_speed": 0.0,
+      "wind_direction": 131,
+      "timestamp": "2025-07-31T10:21:05.973080"
+    },
+    "port_2": {
+      "type": "solar",
+      "solar_radiation": 0,
+      "timestamp": "2025-07-31T10:21:06.724989"
+    },
+    "port_3": {
+      "type": "soil",
+      "soil_moisture": 0.0,
+      "soil_temperature": 2.53,
+      "timestamp": "2025-07-31T10:21:07.510855"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "temperature": 27.4,
+      "humidity": 60.6,
+      "timestamp": "2025-07-31T10:21:08.594210"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T10:21:18.825755",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "status": "no_response",
+      "timestamp": "2025-07-31T10:21:19.633701"
+    },
+    "port_2": {
+      "type": "solar",
+      "solar_radiation": 0,
+      "timestamp": "2025-07-31T10:21:20.177551"
+    },
+    "port_3": {
+      "type": "soil",
+      "soil_moisture": 0.0,
+      "soil_temperature": 2.53,
+      "timestamp": "2025-07-31T10:21:20.964287"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "temperature": 27.9,
+      "humidity": 61.0,
+      "timestamp": "2025-07-31T10:21:22.047306"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T10:21:32.278601",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "wind_speed": 0.0,
+      "wind_direction": 131,
+      "timestamp": "2025-07-31T10:21:32.630613"
+    },
+    "port_2": {
+      "type": "solar",
+      "solar_radiation": 0,
+      "timestamp": "2025-07-31T10:21:33.379887"
+    },
+    "port_3": {
+      "type": "soil",
+      "soil_moisture": 0.0,
+      "soil_temperature": 2.53,
+      "timestamp": "2025-07-31T10:21:34.165026"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "temperature": 27.2,
+      "humidity": 61.0,
+      "timestamp": "2025-07-31T10:21:35.248723"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T10:21:45.471630",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "wind_speed": 0.0,
+      "wind_direction": 131,
+      "timestamp": "2025-07-31T10:21:45.826014"
+    },
+    "port_2": {
+      "type": "solar",
+      "solar_radiation": 0,
+      "timestamp": "2025-07-31T10:21:46.577338"
+    },
+    "port_3": {
+      "type": "soil",
+      "soil_moisture": 0.0,
+      "soil_temperature": 2.53,
+      "timestamp": "2025-07-31T10:21:47.365947"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "temperature": 27.7,
+      "humidity": 61.1,
+      "timestamp": "2025-07-31T10:21:48.445978"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T10:21:58.674957",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "wind_speed": 0.0,
+      "wind_direction": 131,
+      "timestamp": "2025-07-31T10:21:59.026437"
+    },
+    "port_2": {
+      "type": "solar",
+      "solar_radiation": 0,
+      "timestamp": "2025-07-31T10:21:59.775637"
+    },
+    "port_3": {
+      "type": "soil",
+      "soil_moisture": 0.0,
+      "soil_temperature": 2.53,
+      "timestamp": "2025-07-31T10:22:00.565460"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "temperature": 27.0,
+      "humidity": 61.6,
+      "timestamp": "2025-07-31T10:22:01.647122"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T11:00:56.713104",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "wind_speed": 0.0,
+      "wind_direction": 131,
+      "timestamp": "2025-07-31T11:00:57.067163"
+    },
+    "port_2": {
+      "type": "solar",
+      "solar_radiation": 0,
+      "timestamp": "2025-07-31T11:00:57.815454"
+    },
+    "port_3": {
+      "type": "soil",
+      "soil_moisture": 0.0,
+      "soil_temperature": 2.52,
+      "timestamp": "2025-07-31T11:00:58.604710"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "temperature": 25.0,
+      "humidity": 68.9,
+      "timestamp": "2025-07-31T11:00:59.686030"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T11:01:09.915294",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "wind_speed": 0.0,
+      "wind_direction": 131,
+      "timestamp": "2025-07-31T11:01:10.265092"
+    },
+    "port_2": {
+      "type": "solar",
+      "solar_radiation": 0,
+      "timestamp": "2025-07-31T11:01:11.015669"
+    },
+    "port_3": {
+      "type": "soil",
+      "soil_moisture": 0.0,
+      "soil_temperature": 2.52,
+      "timestamp": "2025-07-31T11:01:11.800818"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "temperature": 26.4,
+      "humidity": 65.8,
+      "timestamp": "2025-07-31T11:01:12.884219"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T11:01:23.114156",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "wind_speed": 0.0,
+      "wind_direction": 131,
+      "timestamp": "2025-07-31T11:01:23.466286"
+    },
+    "port_2": {
+      "type": "solar",
+      "solar_radiation": 0,
+      "timestamp": "2025-07-31T11:01:24.214952"
+    },
+    "port_3": {
+      "type": "soil",
+      "soil_moisture": 0.0,
+      "soil_temperature": 2.52,
+      "timestamp": "2025-07-31T11:01:25.003351"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "temperature": 26.5,
+      "humidity": 65.3,
+      "timestamp": "2025-07-31T11:01:26.084693"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T11:01:36.307566",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "wind_speed": 0.0,
+      "wind_direction": 131,
+      "timestamp": "2025-07-31T11:01:36.661589"
+    },
+    "port_2": {
+      "type": "solar",
+      "solar_radiation": 0,
+      "timestamp": "2025-07-31T11:01:37.411502"
+    },
+    "port_3": {
+      "type": "soil",
+      "soil_moisture": 0.0,
+      "soil_temperature": 2.52,
+      "timestamp": "2025-07-31T11:01:38.200520"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "temperature": 27.0,
+      "humidity": 63.8,
+      "timestamp": "2025-07-31T11:01:39.281248"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T11:03:20.894827",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "wind_speed": 0.0,
+      "wind_direction": 131,
+      "timestamp": "2025-07-31T11:03:21.247081"
+    },
+    "port_2": {
+      "type": "solar",
+      "solar_radiation": 0,
+      "timestamp": "2025-07-31T11:03:21.995745"
+    },
+    "port_3": {
+      "type": "soil",
+      "soil_moisture": 0.0,
+      "soil_temperature": 2.53,
+      "timestamp": "2025-07-31T11:03:22.783901"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "temperature": 28.0,
+      "humidity": 61.0,
+      "timestamp": "2025-07-31T11:03:23.867170"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T11:03:34.097972",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "wind_speed": 0.0,
+      "wind_direction": 131,
+      "timestamp": "2025-07-31T11:03:34.449419"
+    },
+    "port_2": {
+      "type": "solar",
+      "solar_radiation": 0,
+      "timestamp": "2025-07-31T11:03:35.196962"
+    },
+    "port_3": {
+      "type": "soil",
+      "soil_moisture": 0.0,
+      "soil_temperature": 2.53,
+      "timestamp": "2025-07-31T11:03:35.984283"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "temperature": 28.6,
+      "humidity": 61.1,
+      "timestamp": "2025-07-31T11:03:37.066688"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:04:09.795952+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:04:10.364024+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:04:11.151562+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:04:11.977413+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 28.7,
+        "humidity": 72.9
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:04:13.097443+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:04:23.140212+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:04:23.707125+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:04:24.479339+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:04:25.289724+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 30.1,
+        "humidity": 69.2
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:04:26.399229+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:04:36.444154+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:04:37.013450+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:04:37.786292+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:04:38.598043+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 30.3,
+        "humidity": 68.2
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:04:39.704730+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:04:49.745677+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:04:50.315065+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:04:51.087946+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:04:51.898256+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 30.8,
+        "humidity": 67.2
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:04:53.004910+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:05:03.047953+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:05:03.616573+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:05:04.388964+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:05:05.200485+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 31.1,
+        "humidity": 66.4
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:05:06.308594+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:05:16.349691+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:05:16.921487+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:05:17.695312+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:05:18.506817+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 28.9,
+        "humidity": 70.1
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:05:19.613263+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:05:29.653903+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:05:30.225543+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:05:31.007792+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:05:31.821217+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 29.4,
+        "humidity": 69.1
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:05:32.928265+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:05:42.968469+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:05:43.537796+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:05:44.308537+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:05:45.123032+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 31.2,
+        "humidity": 66.2
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:05:46.228493+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:05:56.268999+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:05:56.837667+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:05:57.611084+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:05:58.420596+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 31.6,
+        "humidity": 65.6
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:05:59.527695+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:06:09.568119+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:06:10.137534+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:06:10.912069+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:06:11.723618+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 31.8,
+        "humidity": 65.0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:06:12.829687+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:06:22.871132+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:06:23.438328+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:06:24.209336+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:06:25.021388+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 31.9,
+        "humidity": 63.9
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:06:26.127129+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:06:36.167967+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:06:36.738246+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:06:37.511385+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:06:38.321228+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 32.1,
+        "humidity": 63.7
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:06:39.428387+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:06:49.468648+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:06:50.038220+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:06:50.811737+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:06:51.623041+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 32.1,
+        "humidity": 63.3
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:06:52.727507+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:07:02.767732+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:07:03.337254+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:07:04.107432+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:07:04.926983+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 32.2,
+        "humidity": 63.1
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:07:06.033989+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:07:16.075103+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:07:16.646928+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:07:17.423496+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:07:18.245270+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 32.4,
+        "humidity": 63.0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:07:19.358956+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:07:29.399771+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:07:29.967770+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:07:30.744549+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:07:31.555404+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 32.5,
+        "humidity": 62.9
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:07:32.662728+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:07:42.703551+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:07:43.273724+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:07:44.049050+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:07:44.859526+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 32.5,
+        "humidity": 62.6
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:07:45.964570+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:07:56.005865+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:07:56.574498+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:07:57.348780+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:07:58.159386+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 32.6,
+        "humidity": 62.5
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:07:59.264506+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:08:09.304907+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:08:09.874677+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:08:10.644103+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:08:11.454016+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 32.7,
+        "humidity": 62.5
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:08:12.560435+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:08:22.601109+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:08:23.169223+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:08:23.939872+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:08:24.751492+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 32.7,
+        "humidity": 62.4
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:08:25.864449+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:08:35.920094+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:08:36.487558+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:08:37.264207+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:08:38.078320+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 32.7,
+        "humidity": 62.2
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:08:39.186032+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:08:49.227182+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:08:49.795647+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:08:50.565592+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:08:51.387677+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 32.9,
+        "humidity": 61.9
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:08:52.498051+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:09:02.538517+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:09:03.109508+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:09:03.886797+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:09:04.697316+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 32.9,
+        "humidity": 62.1
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:09:05.808789+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:09:15.848976+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:09:16.418749+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:09:17.191873+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:09:18.001821+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 33.0,
+        "humidity": 61.9
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:09:19.107456+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:09:29.147965+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:09:29.716753+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:09:30.488042+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:09:31.303102+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 33.0,
+        "humidity": 61.8
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:09:32.409319+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:09:42.449924+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:09:43.019966+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:09:43.790471+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:09:44.600503+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 33.0,
+        "humidity": 61.9
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:09:45.706965+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:09:55.746494+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:09:56.317729+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:09:57.096038+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:09:57.907191+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 33.1,
+        "humidity": 61.8
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:09:59.013841+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:10:09.054416+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:10:09.624533+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:10:10.396051+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:10:11.208976+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 33.0,
+        "humidity": 61.5
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:10:12.314843+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:10:22.355701+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:10:22.926058+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:10:23.699118+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:10:24.510579+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 33.0,
+        "humidity": 61.7
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:10:25.618755+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:10:35.659532+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:10:36.230373+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:10:37.000462+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:10:37.820188+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 33.2,
+        "humidity": 61.5
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:10:38.931780+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:10:48.972463+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:10:49.539788+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:10:50.312263+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:10:51.126933+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 33.2,
+        "humidity": 61.3
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:10:52.234353+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:11:02.274576+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:11:02.844744+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:11:03.621383+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:11:04.432534+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 33.3,
+        "humidity": 61.5
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:11:05.538124+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:11:15.578032+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:11:16.148651+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:11:16.920893+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:11:17.733156+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 33.2,
+        "humidity": 61.5
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:11:18.840629+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:11:28.881176+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:11:29.448451+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:11:30.219865+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:11:31.030265+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 33.2,
+        "humidity": 61.5
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:11:32.136439+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:11:42.177786+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:11:42.747319+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:11:43.517529+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:11:44.327529+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 33.3,
+        "humidity": 61.3
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:11:45.434280+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:11:55.475421+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:11:56.045552+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:11:56.815049+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:11:57.626696+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 33.4,
+        "humidity": 61.3
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:11:58.733755+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:12:08.774309+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:12:09.345084+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:12:10.117270+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:12:10.941002+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 33.4,
+        "humidity": 61.2
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:12:12.053082+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:12:22.094007+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:12:22.663449+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:12:23.436235+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:12:24.251000+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 33.4,
+        "humidity": 61.1
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:12:25.356646+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:12:35.397995+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:12:35.966456+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:12:36.739165+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:12:37.548285+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 33.4,
+        "humidity": 61.2
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:12:38.653318+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:12:48.693383+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:12:49.260773+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:12:50.038221+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:12:50.850177+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 33.4,
+        "humidity": 60.8
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:12:51.957311+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:13:01.997390+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:13:02.563955+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:13:03.337111+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:13:04.148838+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 33.5,
+        "humidity": 61.0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:13:05.255026+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:13:15.295366+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:13:15.862578+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:13:16.634524+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:13:17.445462+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 33.5,
+        "humidity": 60.8
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:13:18.553611+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:13:28.594349+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:13:29.161352+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:13:29.937715+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:13:30.747863+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 33.5,
+        "humidity": 60.8
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:13:31.856259+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:13:41.898208+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:13:42.466914+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:13:43.246071+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:13:44.061513+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 33.5,
+        "humidity": 61.0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:13:45.172556+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:13:55.214104+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:13:55.782645+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:13:56.560252+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:13:57.371462+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 33.5,
+        "humidity": 60.9
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:13:58.477788+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:14:08.518295+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:14:09.088073+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:14:09.858316+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:14:10.672294+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 33.6,
+        "humidity": 60.8
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:14:11.776897+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:14:21.816864+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:14:22.386850+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:14:23.156960+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:14:23.966462+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 33.5,
+        "humidity": 60.7
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:14:25.073008+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:14:35.113518+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:14:35.679748+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:14:36.451829+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:14:37.261793+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 33.7,
+        "humidity": 61.0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:14:38.367832+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:14:48.408388+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:14:48.978788+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:14:49.757193+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:14:50.567163+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 33.6,
+        "humidity": 60.6
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:14:51.673176+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:15:01.713557+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:15:02.288302+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:15:03.068259+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:15:03.880235+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 33.6,
+        "humidity": 60.5
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:15:04.987926+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:15:15.029861+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:15:15.600173+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:15:16.372316+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:15:17.192307+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 33.6,
+        "humidity": 60.9
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:15:18.304933+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:25:41.810606+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:25:42.379910+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:25:43.172743+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:25:43.998901+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 33.5,
+        "humidity": 59.8
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:25:45.120238+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:25:55.166185+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:25:55.735493+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:25:56.511952+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:25:57.327185+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 33.9,
+        "humidity": 60.0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:25:58.440467+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:26:08.484625+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:26:09.055232+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:26:09.834879+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:26:10.651129+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 33.9,
+        "humidity": 59.7
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:26:11.763789+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:26:21.807114+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:26:22.374342+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:26:23.155589+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:26:23.968658+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 33.9,
+        "humidity": 60.0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:26:25.080974+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:26:35.119387+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:26:35.687279+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:26:36.463395+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:26:37.279809+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 33.9,
+        "humidity": 59.7
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:26:38.394977+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:26:48.437411+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:26:49.005821+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:26:49.786902+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:26:50.603040+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.0,
+        "humidity": 59.9
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:26:51.717437+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:27:01.760584+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:27:02.329693+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:27:03.108050+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:27:03.923105+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.0,
+        "humidity": 59.7
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:27:05.036180+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:27:15.085319+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:27:15.652668+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:27:16.430177+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:27:17.244960+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 33.9,
+        "humidity": 59.9
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:27:18.358344+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:27:28.403263+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:27:28.970031+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:27:29.747235+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:27:30.563651+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.0,
+        "humidity": 60.0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:27:31.678223+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:27:41.720966+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:27:42.290543+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:27:43.066913+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:27:43.878368+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.0,
+        "humidity": 59.6
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:27:44.990470+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:27:55.033278+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:27:55.602294+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:27:56.382296+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:27:57.197381+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.0,
+        "humidity": 59.9
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:27:58.311285+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:28:08.354500+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:28:08.921619+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:28:09.702201+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:28:10.518631+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.0,
+        "humidity": 59.7
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:28:11.631200+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:28:21.674501+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:28:22.245350+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:28:23.025314+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:28:23.841107+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.0,
+        "humidity": 59.7
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:28:24.955708+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:28:34.998412+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:28:35.567572+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:28:36.347892+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:28:37.165482+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.0,
+        "humidity": 59.8
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:28:38.276683+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:28:48.319960+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:28:48.889512+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:28:49.669480+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:28:50.485294+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.0,
+        "humidity": 60.0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:28:51.597539+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:29:01.645875+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:29:02.215468+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:29:02.992305+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:29:03.803644+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.0,
+        "humidity": 59.9
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:29:04.918479+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:29:14.962886+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:29:15.530222+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:29:16.308787+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:29:17.123562+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 33.9,
+        "humidity": 59.8
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:29:18.237744+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:29:28.281421+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:29:28.851395+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:29:29.635677+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:29:30.455978+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.0,
+        "humidity": 60.1
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:29:31.568923+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:29:41.612274+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:29:42.181455+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:29:42.962258+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:29:43.779217+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.0,
+        "humidity": 59.9
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:29:44.892123+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:29:54.938352+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:29:55.505741+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:29:56.288561+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:29:57.104677+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.0,
+        "humidity": 60.0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:29:58.217799+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:30:08.260308+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:30:08.829124+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:30:09.609372+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:30:10.423840+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.0,
+        "humidity": 59.4
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:30:11.537955+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:30:21.580093+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:30:22.151569+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:30:22.929903+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:30:23.745827+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.0,
+        "humidity": 59.8
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:30:24.860627+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:30:34.903418+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:30:35.473226+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:30:36.251959+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:30:37.066591+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 33.9,
+        "humidity": 59.7
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:30:38.180427+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:30:48.223246+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:30:48.790041+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:30:49.570135+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:30:50.385375+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.0,
+        "humidity": 59.8
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:30:51.498479+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:31:01.543477+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:31:02.113668+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:31:02.891631+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:31:03.717556+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.1,
+        "humidity": 59.6
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:31:04.831155+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:31:14.875377+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:31:15.445987+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:31:16.224777+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:31:17.042105+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.0,
+        "humidity": 60.0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:31:18.155214+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:31:28.198526+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:31:28.768100+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:31:29.551363+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:31:30.366922+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.1,
+        "humidity": 59.9
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:31:31.479335+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:31:41.522680+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:31:42.091325+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:31:42.873638+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:31:43.688934+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.0,
+        "humidity": 59.9
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:31:44.802888+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-07-31T23:31:54.845963+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:31:55.415720+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:31:56.198225+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:31:57.014360+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.0,
+        "humidity": 59.5
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-07-31T23:31:58.127730+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:00:31.656923+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:00:32.225792+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:00:33.013502+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:00:33.839866+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 33.6,
+        "humidity": 59.8
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:00:34.963058+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:00:45.005932+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:00:45.574118+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:00:46.354297+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:00:47.169607+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.0,
+        "humidity": 59.9
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:00:48.281601+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:00:58.323340+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:00:58.891669+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:00:59.668750+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:01:00.488332+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.0,
+        "humidity": 59.9
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:01:01.600891+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:01:11.644793+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:01:12.211211+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:01:12.988707+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.75
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:01:13.816517+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.1,
+        "humidity": 59.7
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:01:14.931644+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:16:03.068109+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:16:03.638501+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:16:04.441595+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:16:05.276343+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 33.7,
+        "humidity": 59.6
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:16:06.403638+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:16:16.449160+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:16:17.017737+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:16:17.799241+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:16:18.616328+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.1,
+        "humidity": 59.9
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:16:19.732389+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:16:29.776096+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:16:30.345962+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:16:31.126829+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:16:31.945035+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.0,
+        "humidity": 60.0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:16:33.060056+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:16:43.103357+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:16:43.673320+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:16:44.452416+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:16:45.268927+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.1,
+        "humidity": 59.8
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:16:46.384824+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:16:56.430438+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:16:56.998783+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:16:57.782278+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:16:58.598842+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.2,
+        "humidity": 59.5
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:16:59.717485+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:17:09.761764+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:17:10.329924+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:17:11.111399+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:17:11.928769+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.1,
+        "humidity": 59.9
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:17:13.044836+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:17:23.091102+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:17:23.662834+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:17:24.444957+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:17:25.261073+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.1,
+        "humidity": 59.5
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:17:26.376048+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:17:36.418353+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:17:36.989241+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:17:37.771956+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:17:38.602305+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.2,
+        "humidity": 59.9
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:17:39.720634+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:17:49.764593+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:17:50.335109+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:17:51.117538+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:17:51.933910+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.0,
+        "humidity": 59.5
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:17:53.048218+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:18:03.090921+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:18:03.660581+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:18:04.443114+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:18:05.260384+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.2,
+        "humidity": 59.8
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:18:06.376729+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:18:16.420006+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:18:16.987556+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:18:17.773218+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:18:18.590963+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.1,
+        "humidity": 59.8
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:18:19.706746+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:18:29.749174+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:18:30.320714+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:18:31.103162+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:18:31.919275+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.1,
+        "humidity": 60.0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:18:33.034700+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:18:43.078397+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:18:43.645638+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:18:44.428739+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:18:45.245445+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.2,
+        "humidity": 59.9
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:18:46.359130+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:18:56.403328+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:18:56.973950+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:18:57.754224+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:18:58.573582+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.1,
+        "humidity": 59.6
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:18:59.689681+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:19:09.733005+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:19:10.303610+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:19:11.083998+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:19:11.905064+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.1,
+        "humidity": 59.6
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:19:13.020890+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:19:23.063940+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:19:23.633020+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:19:24.412779+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:19:25.231597+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.2,
+        "humidity": 59.5
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:19:26.350304+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:19:36.394754+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:19:36.961549+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:19:37.743490+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:19:38.561550+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.1,
+        "humidity": 59.8
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:19:39.685876+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:19:49.737199+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:19:50.305485+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:19:51.095817+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:19:51.917284+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.0,
+        "humidity": 59.5
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:19:53.030772+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:20:03.074601+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:20:03.646402+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:20:04.429346+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:20:05.245064+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.1,
+        "humidity": 60.1
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:20:06.360069+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:20:16.404780+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:20:16.982920+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:20:17.766450+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:20:18.583130+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.1,
+        "humidity": 59.5
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:20:19.697830+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:20:29.741042+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:20:30.310480+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:20:31.092393+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:20:31.908763+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.1,
+        "humidity": 60.0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:20:33.026712+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:20:43.071242+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:20:43.640587+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:20:44.420455+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:20:45.236883+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.3,
+        "humidity": 59.8
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:20:46.355221+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:20:56.400759+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:20:56.971025+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:20:57.752921+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:20:58.570528+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.2,
+        "humidity": 59.9
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:20:59.686606+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:21:09.733827+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:21:10.301646+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:21:11.081191+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:21:11.899921+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.1,
+        "humidity": 60.0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:21:13.018603+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:21:23.061360+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:21:23.632267+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:21:24.412336+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:21:25.229105+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.2,
+        "humidity": 59.8
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:21:26.346223+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:21:36.391827+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:21:36.962396+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:21:37.748172+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:21:38.566649+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.1,
+        "humidity": 59.7
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:21:39.682663+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:21:49.725158+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:21:50.290983+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:21:51.075655+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:21:51.892288+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.2,
+        "humidity": 59.6
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:21:53.008927+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:22:03.051175+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:22:03.620806+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:22:04.399818+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:22:05.215506+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.2,
+        "humidity": 59.8
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:22:06.331592+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:22:16.382381+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:22:16.950330+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:22:17.733215+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:22:18.550298+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.1,
+        "humidity": 59.9
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:22:19.666642+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:22:29.712451+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:22:30.279473+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:22:31.061756+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:22:31.878766+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.1,
+        "humidity": 59.9
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:22:32.994509+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:22:43.038935+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:22:43.607780+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:22:44.390170+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:22:45.210572+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.1,
+        "humidity": 59.6
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:22:46.327511+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:22:56.370841+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:22:56.940806+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:22:57.722714+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:22:58.541050+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.1,
+        "humidity": 60.0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:22:59.655730+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:23:09.699654+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:23:10.268330+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:23:11.045019+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:23:11.864608+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.1,
+        "humidity": 59.6
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:23:12.982426+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:23:23.024450+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:23:23.593738+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:23:24.373563+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:23:25.193990+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.2,
+        "humidity": 59.6
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:23:26.315879+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:23:36.369971+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:23:36.936417+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:23:37.715948+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:23:38.538296+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.2,
+        "humidity": 59.6
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:23:39.654868+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:23:49.697767+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:23:50.265652+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:23:51.048611+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:23:51.866734+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.1,
+        "humidity": 60.1
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:23:52.983597+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:24:03.027510+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:24:03.600746+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:24:04.382964+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:24:05.199345+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.1,
+        "humidity": 59.9
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:24:06.314577+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:24:16.358631+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:24:16.926283+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:24:17.706272+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:24:18.522958+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.1,
+        "humidity": 60.1
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:24:19.641066+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:24:29.685898+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:24:30.254324+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:24:31.034205+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:24:31.851222+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.2,
+        "humidity": 59.7
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:24:32.969308+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:24:43.011800+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:24:43.582045+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:24:44.360373+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:24:45.181215+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.1,
+        "humidity": 59.6
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:24:46.296662+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:24:56.341536+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:24:56.910661+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:24:57.692898+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:24:58.510028+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.2,
+        "humidity": 59.6
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:24:59.626204+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:25:09.670712+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:25:10.238926+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:25:11.021085+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:25:11.839358+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.1,
+        "humidity": 59.7
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:25:12.964945+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:25:23.012955+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:25:23.582019+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:25:24.367671+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:25:25.174740+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.2,
+        "humidity": 59.9
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:25:26.282368+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:25:36.318957+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:25:36.886295+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:25:37.658091+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:25:38.467738+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.2,
+        "humidity": 59.7
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:25:39.575066+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:27:10.254849+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:27:10.822245+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:27:11.617280+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:27:12.450542+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 33.6,
+        "humidity": 59.6
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:27:13.590505+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:27:23.636697+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:27:24.208309+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:27:24.991138+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:27:25.809598+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.1,
+        "humidity": 59.7
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:27:26.927442+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:27:36.973358+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:27:37.540756+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:27:38.320622+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:27:39.136308+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.0,
+        "humidity": 60.0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:27:40.249650+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:27:50.302047+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:27:50.867849+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:27:51.649425+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:27:52.468412+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.2,
+        "humidity": 59.7
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:27:53.584518+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:28:03.631644+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:28:04.202975+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:28:04.982804+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:28:05.800158+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.2,
+        "humidity": 59.8
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:28:06.918807+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:28:16.964009+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:28:17.533880+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:28:18.315118+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:28:19.131367+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.1,
+        "humidity": 59.7
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:28:20.247380+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:28:30.293376+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:28:30.859553+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:28:31.641699+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:28:32.460352+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.2,
+        "humidity": 59.6
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:28:33.576610+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:28:43.622519+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:28:44.192569+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:28:44.975254+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:28:45.791114+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.1,
+        "humidity": 59.9
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:28:46.905992+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:28:56.951566+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:28:57.520219+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:28:58.303062+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:28:59.121031+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.1,
+        "humidity": 60.0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:29:00.237513+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:29:10.285057+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:29:10.856030+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:29:11.639929+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:29:12.458510+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.1,
+        "humidity": 59.8
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:29:13.574446+07:00"
+    }
+  }
+}
+{
+  "timestamp": "2025-08-01T00:29:23.619556+07:00",
+  "sensors": {
+    "port_1": {
+      "type": "wind",
+      "data": {
+        "wind_speed": 0.0,
+        "wind_direction": 131
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:29:24.186916+07:00"
+    },
+    "port_2": {
+      "type": "solar",
+      "data": {
+        "solar_radiation": 0
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:29:24.967594+07:00"
+    },
+    "port_3": {
+      "type": "soil",
+      "data": {
+        "soil_moisture": 0.0,
+        "soil_temperature": 2.76
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:29:25.782699+07:00"
+    },
+    "port_4": {
+      "type": "air_temp",
+      "data": {
+        "temperature": 34.1,
+        "humidity": 59.8
+      },
+      "current_status": "healthy",
+      "operation_status": "online",
+      "timestamp": "2025-08-01T00:29:26.899709+07:00"
+    }
+  }
+}

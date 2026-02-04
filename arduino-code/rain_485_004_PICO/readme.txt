@@ -1,0 +1,1 @@
+โค้ดล่าสุดมีฟังก์ชั่นเปลี่ยน address , reset address , check address
