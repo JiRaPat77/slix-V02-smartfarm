@@ -1,95 +1,3 @@
-# import serial
-# import time
-# import json
-
-# class UltrasonicModbus:
-#     def __init__(self, port="/dev/ttyS2", slave_address=0x4C, baudrate=4800, timeout=1.0):
-#         self.port = port
-#         self.slave_address = slave_address
-#         self.baudrate = baudrate
-#         self.timeout = timeout
-
-#     @staticmethod
-#     def modbus_crc(buf):
-#         crc = 0xFFFF
-#         for b in buf:
-#             crc ^= b
-#             for _ in range(8):
-#                 if crc & 1:
-#                     crc = (crc >> 1) ^ 0xA001
-#                 else:
-#                     crc >>= 1
-#         return crc
-
-#     def read_distance(self, max_attempts=5, delay_between=0.001):
-#         cmd = [self.slave_address, 0x03, 0x00, 0x00, 0x00, 0x01]
-#         crc = self.modbus_crc(cmd)
-#         cmd.append(crc & 0xFF)          # CRC Low
-#         cmd.append((crc >> 8) & 0xFF)   # CRC High
-
-#         result = {
-#             "port": self.port,
-#             "slave_address": self.slave_address,
-#             "distance_cm": None,
-#             "crc_error": False,
-#             "attempts": 0,
-#             "success": False,
-#             "raw": None,
-#             "timestamp": None
-#         }
-
-#         try:
-#             ser = serial.Serial(self.port, baudrate=self.baudrate, bytesize=8, parity="N", stopbits=1, timeout=self.timeout)
-#         except Exception as e:
-#             result["error"] = f"Serial error: {e}"
-#             return result
-
-#         value = None
-#         for attempt in range(1, max_attempts + 1):
-#             ser.reset_input_buffer()
-#             ser.write(bytearray(cmd))
-#             ser.flush()
-#             resp = ser.read(7)
-#             print(f"[Attempt {attempt}] Raw response bytes: {list(resp)}")
-#             result["raw"] = list(resp)
-#             result["attempts"] = attempt
-
-#             if len(resp) != 7:
-#                 time.sleep(delay_between)
-#                 continue
-
-#             addr, func, bytecount, hi, lo, crc_l, crc_h = resp
-#             resp_frame = [addr, func, bytecount, hi, lo]
-#             crc_calc = self.modbus_crc(resp_frame)
-
-#             if (crc_l != (crc_calc & 0xFF)) or (crc_h != ((crc_calc >> 8) & 0xFF)):
-#                 result["crc_error"] = True
-#                 time.sleep(delay_between)
-#                 continue
-
-#             value = (hi << 8) | lo
-#             result["distance_cm"] = value
-#             result["crc_error"] = False
-#             result["success"] = True
-#             result["timestamp"] = int(time.time())
-#             break
-#         else:
-#             result["success"] = False
-
-#         ser.close()
-#         return result
-
-#     def read_json(self):
-#         """Return result as JSON string"""
-#         return json.dumps(self.read_distance(), ensure_ascii=False)
-
-
-
-
-
-
-
-
 import serial
 import time
 import json
@@ -123,6 +31,7 @@ class UltrasonicModbus:
             "port": self.port,
             "slave_address": self.slave_address,
             "distance_cm": None,
+            "distance_formula": None,
             "crc_error": False,
             "attempts": 0,
             "success": False,
@@ -161,6 +70,7 @@ class UltrasonicModbus:
 
             value = (hi << 8) | lo
             result["distance_cm"] = value
+            result["distance_formula"] = 147 - value  # ตัวอย่างสูตรแปลงเป็นระยะทางจริง (ปรับตามการสอบเทียบ)
             result["crc_error"] = False
             result["success"] = True
             result["timestamp"] = int(time.time())
