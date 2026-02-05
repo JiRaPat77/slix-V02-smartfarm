@@ -77,7 +77,11 @@ class SensorWaterLevelRKL01:
             raw_value = int(level_high + level_low, 16)
             
             # Convert to water level in meters (divide by 100 as per manual)
-            water_level = raw_value / 100.0
+            # water_level = raw_value / 100.0
+
+            sensor_plant_height = 73  # Offset in cm (50 + 23 :50 คือโคนต้นถึงผิวน้ำ 23 คือระยะที่ sensor อยู่)
+            sensor_reading = (raw_value / 10.0)
+            water_level = (sensor_plant_height - sensor_reading)
             
             result = {
                 "water_level": water_level,
@@ -297,3 +301,4 @@ if __name__ == "__main__":
     
     # Close connection
     sensor.close()
+
