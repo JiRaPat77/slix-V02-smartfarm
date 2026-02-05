@@ -3,6 +3,7 @@ Luckfox Model
 # คู่มือการติดตั้งและใช้งานอุปกรณ์ Slix (Slix Device Operation Manual)
 
 เอกสารนี้อธิบายขั้นตอนการสร้าง Device, การตั้งค่า Hardware, การแก้ไข Code และการตรวจสอบระบบสำหรับการใช้งานอุปกรณ์ Slix
+⚠️ การติดตั้งโดยใช้ท่อร้อยสายไฟให้ใช้ท่อเบอร์ 25 ติดตั้งให้ฝังดิน
 
 ---
 
@@ -55,7 +56,7 @@ Luckfox Model
    - **Remote Host:** `slix005` (ค่าเริ่มต้นของตัวที่โคลนมา)
    - **Username:** `root`
    - **Password:** `luckfox`
-   ![รูปภาพการตั้งค่า SSH](https://github.com/JiRaPat77/slix-V02-smartfarm/blob/2f46e3551c3217f907b59f27cb1337564571e125/image-process/Weaverboard-scan-qrCode-node.png)
+   ![รูปภาพการตั้งค่า SSH](https://github.com/JiRaPat77/slix-V02-smartfarm/blob/3a38e4733558059020a10cfec7203e496bb4c559/image-process/luckfox-remote-host.png)
    - ตั้งค่า Network setting เพิ่มไฟล์ pub ที่ดาวน์โหลดมาไว้ก่อนหน้านี้
    ![รูปภาพการตั้งค่า SSH network setting](https://github.com/JiRaPat77/slix-V02-smartfarm/blob/2f46e3551c3217f907b59f27cb1337564571e125/image-process/luckfox-network-setting.png)
 4. หยุดการทำงานโปรแกรมหลักก่อนแก้ไข:
@@ -100,10 +101,10 @@ Luckfox Model
    - แก้ไข instance: ใส่เลขลำดับตัวที่เท่าไหร่ (เช่น "01")
 4. กด save
 5. Test Run 
-  - รันด้วย python3 ปกติที่หน้า Terminal เพื่อทดสอบ
-  - เมื่อมั่นใจแล้ว สั่งเริ่ม Service:
-    ```bash
-    sh -x /etc/init.d/S99main_service start
+     - รันด้วย python3 ปกติที่หน้า Terminal เพื่อทดสอบ
+     - เมื่อมั่นใจแล้ว สั่งเริ่ม Service:
+       ```bash
+       sh -x /etc/init.d/S99main_service start
 
 ---
 
@@ -125,10 +126,10 @@ Luckfox Model
 ![รูปภาพประกอบการเปลี่ยน address sensor](https://github.com/JiRaPat77/slix-V02-smartfarm/blob/2f46e3551c3217f907b59f27cb1337564571e125/image-process/mian-code-change-addr.png)
 
 6. Test Run 
-  - รันด้วย python3 ปกติที่หน้า Terminal เพื่อทดสอบ
-  - เมื่อมั่นใจแล้ว สั่งเริ่ม Service:
-    ```bash
-    sh -x /etc/init.d/S99main_service start
+     - รันด้วย python3 ปกติที่หน้า Terminal เพื่อทดสอบ
+     - เมื่อมั่นใจแล้ว สั่งเริ่ม Service:
+       ```bash
+       sh -x /etc/init.d/S99main_service start
 
 ---
 
