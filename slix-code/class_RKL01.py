@@ -81,7 +81,7 @@ class SensorWaterLevelRKL01:
 
             sensor_plant_height = 73  # Offset in cm (50 + 23 :50 คือโคนต้นถึงผิวน้ำ 23 คือระยะที่ sensor อยู่)
             sensor_reading = (raw_value / 10.0)
-            water_level = (sensor_plant_height - sensor_reading)
+            water_level = (sensor_plant_height - sensor_reading) #ค่าที่ได้ออกมาจะเหมือนกับการเอา ultrasonic ไปวัดผิวน้ำถ้าน้ำขึ้นค่าลดถ้าน้ำลดค่าขึ้น
             
             result = {
                 "water_level": water_level,
@@ -301,4 +301,5 @@ if __name__ == "__main__":
     
     # Close connection
     sensor.close()
+
 
